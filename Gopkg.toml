@@ -77,7 +77,7 @@
 
 [[dependencies]]
   branch = "master"
-  name = "github.com/hashicorp/terraform"
+  name = "github.com/hashicorp/terraform@v0.14.8"
 
 [[dependencies]]
   branch = "master"
